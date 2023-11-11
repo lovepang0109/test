@@ -1,0 +1,33 @@
+***gem install shopify-cli
+
+-----Shopify partner account-----
+-----How to dev other's shopify store-----
+1. Invited shopify account using mail
+2. Add Store/Managed store/ url + select All / accepted
+3. Getting the admin role.
+
+-----Don't forgot to duplicate theme before dev.-----
+-----And finally publish it-------
+
+
+-----Useful url for shopify-----
+https://help.shopify.com/en     ..about platform
+https://shopify.dev/api/liquid/basics      ....shopify dev.
+
+
+****shopify login --store=url
+****shopify version
+
+
+****shopify theme pull
+
+****shopify theme serve
+
+After getting the 127.0.0.1:port 
+Input password:   shopify url: /preferences password
+
+****shopify theme push
+
+
+kayan@kaiventurepartners.com
+

@@ -1,0 +1,163 @@
+UBUNTU
+
+- Installing SSH Server
+
+	sudo apt update
+	sudo apt install openssh-server
+	sudo systemctl status ssh
+	sudo ufw allow ssh (firewall configuration: open ssh port)
+	ip a (ssh server address)
+	sudo username@ip_address
+
+	sudo systemctl start ssh
+	sudo systemctl stop ssh
+	sudo systemctl enable ssh
+	sudo systemctl disable ssh
+
+- Installing Certbot
+sudo apt install certbot python3-certbot-nginx
+sudo nano /etc/nginx/sites-available/example.com
+sudo nginx -t
+sudo systemctl reload nginx
+sudo ufw status
+sudo ufw allow 'Nginx Full'
+sudo ufw delete allow 'Nginx HTTP'
+sudo certbot --nginx -d ninjachampions.com -d www.ninjachampions.com
+
+sudo systemctl status certbot.timer
+sudo certbot renew --dry-run
+
+
+
+- Setup PM2 process manager
+
+	sudo npm i pm2 -g
+	pm2 status
+
+- Installing Nginx 
+
+	sudo apt install nginx 		(nginx install)
+	sudo ufw app list			(nginx firewall permission)
+	sudo ufw allow 'Nginx Full'	(for port HTTP:80 and HTTPS:443)
+
+- Installing Nodejs
+	https://vegastack.com/tutorials/how-to-install-nodejs-on-ubuntu-20-04/
+
+	sudo apt update
+	sudo apt install nodejs (it is for nodejs 8.10.0)
+
+	(other way)
+	sudo apt install curl
+	curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash - (can install any version -> setup_xx.x)
+	sudo apt-get install -y nodejs
+
+	curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash   (nvm)
+	nvm install --lts      nvm ls      nvm use 18.15.0
+
+- Remove Nodejs
+	sudo apt-get remove nodejs
+	sudo apt-get purge nodejs
+	sudo apt-get autoremove
+
+- Installing MongoDB
+
+	sudo apt update
+	sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 9DA31620334BD75D9DCB49F368818C72E52529D4
+	sudo add-apt-repository 'deb [arch=amd64] https://repo.mongodb.org/apt/ubuntu bionic/mongodb-org/4.0 multiverse'
+	sudo apt update
+	sudo apt install mongodb-org (sudo apt install mongodb)
+	sudo systemctl start mongod
+	sudo systemctl enable mongod
+	mongo --eval 'db.runCommand({connectionStatus: 1})'
+	sudo systemctl restart mongod
+
+--Uninstalling MongoDB
+sudo service mongod stop
+sudo apt-get purge mongodb-org*
+sudo rm -r /var/log/mongodb
+sudo rm -r /var/lib/mongodb
+
+--Drop database in mongo
+$mongo
+>show dbs
+>use viavix
+>db.dropDatabase()
+
+- Configure Nginx
+	
+	sudo nano /etc/nginx/site-available/default
+
+	#REST API BACKEND CONFIG
+    location /api {
+        	proxy_pass http://localhost:5000;
+                proxy_set_header Host $host;
+                proxy_set_header X-Real-IP $remote_addr;
+                proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+                proxy_connect_timeout 150;
+                proxy_send_timeout 100;
+                proxy_read_timeout 100;
+                proxy_buffers 4 32k;
+                client_max_body_size 8m;
+                client_body_buffer_size 128k;
+    }    
+
+    Ctrl + O
+    Ctrl + X
+
+    sudo nginx -t
+    sudo systemctl restart nginx (sudo service nginx restart)
+
+- Reference
+	https://gist.github.com/sjosephrw/5bc7efbf4c332070165c61dba253288d
+
+- Refresh 404 error
+
+	sudo nano /etc/nginx/site-available/default
+
+	location / {
+		try_files $uri /index.html;
+	}
+
+/etc/nginx/sites-available/default
+
+http {
+    include       mime.types;
+
+    default_type  application/octet-stream;
+
+    sendfile        on;
+
+    keepalive_timeout  65;
+
+    server {
+
+        listen 80;
+        server_name _;
+        root /var/www/html;
+
+        location /api {
+                proxy_pass http://localhost:4000;
+                proxy_set_header Host $host;
+                proxy_set_header X-Real-IP $remote_addr;
+                proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+                proxy_connect_timeout 150;
+                proxy_send_timeout 100;
+                proxy_read_timeout 100;
+                proxy_buffers 4 32k;
+                client_max_body_size 8m;
+                client_body_buffer_size 128k;
+        }
+       location / {
+	try_files $uri /index.html;
+       }
+    }
+}
+
+----pm2 command (nodemon)
+pm2 status
+pm2 start server.js
+pm2 start server.js -- --production
+pm2 show server
+pm2 stop server
+pm2 kill
+
