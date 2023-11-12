@@ -1,0 +1,701 @@
+843f49d5dbee30af3f8922eafc67123d8c507f049e74a89e65ba696072065d85
+8e592c966015bfae56835611f559ef762538a9386890a49dfb20a58a9998e024
+
+0xaDf3dED1c711026e69e23e6FcF6b1ecC27443543
+0xaDf3dED1c711026e69e23e6FcF6b1ecC27443543
+
+
+7a21e8399ae386ee125bbbbbe8514a549b1c340b1484c7575402d79ffcd9c711
+7a21e8399ae386ee125bbbbbe8514a549b1c340b1484c7575402d79ffcd9c711
+
+screen dish size eye wisdom grass predict rent amazing word furnace coyote
+=====================
+https://docs.google.com/document/d/1IyFHOnmAQxFsiIta0vX8X7jbzM9kYkZVOyZtGPMFoBE/edit
+==============================
+checkoutcontroller -> ordersubmit()
+market-pro->checkout.blade.php
+destroyCart()
+https://sendgb.com/yatKQvdq8p3
+https://keenthemes.ams3.digitaloceanspaces.com/market/source/start/start_react_free_v1.0.0.zip?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=XXANLECRASJSAMTHFZDS%2F20230305%2Fams3%2Fs3%2Faws4_request&X-Amz-Date=20230305T030808Z&X-Amz-SignedHeaders=host&X-Amz-Expires=10&X-Amz-Signature=6bc1600a44fc6e14056bf2bd965ff8b9de472b9f68a1f61770d6b1646ec6f4eb
+
+checkoutStep()
+
+  $subtotal = $result['price']  * $result['quantity'] - $result['discount'] + $beverage_fee;
+shoppingcart.php  -> calculateTaxFee()
+getValueForEmail()
+
+checkoutpubliccontroller -> docheckout
+marketplace.php -> checkoutorder()
+
+setTransactions()
+checkoutservice.php-> orderFulfillment()
+
+use Illuminate\Support\Facades\Log;
+cartpubliccontroller.php-> checkout(), addToCartWithBeverage()
+
+2020 photos
+https://photos.app.goo.gl/TnarvAejd59i7xt16
+2023 photos
+https://photos.app.goo.gl/XAVBRnRs9hnTzURCA
+2023 videos
+https://photos.app.goo.gl/S7PbfP3n7kaao6DJ9
+<i class="fas fa-video"></i>
+///////////////////
+cart.blade.php
+public.blade.php
+header.blade.php
+cart_summary.blade.php
+/////////////
+
+checkoutCartProduct_instant()
+//finalize payment
+marketplace-checkout.blade.php   --------    line 66
+checkoutcontrollercommonFunctions.php -> gatewayPaymentToken()
+
+=============================
+# Requires the latest pip
+pip install --upgrade pip
+
+# Current stable release for CPU and GPU
+pip install tensorflow
+
+# Or try the preview build (unstable)
+pip install tf-nightly
+
+
+ $date = new Time();
+
+                $week_head = '';
+
+                $theday = strtoupper(($date)->format("D"));
+                if($theday != "SUNDAY")
+                {
+                    $date->modify('next sunday');
+                    $date->modify('-7 days');
+                }
+                $week_head = $date->format('Y-m-d');
+                
+
+
+composer create-project drupal/recommended-project drupal 
+cd drupal && php -d memory_limit=256M web/core/scripts/drupal quick-start demo_umami
+==============================
+blackbox811@yeah.net
+lib8113x
+
+
+https://www.freelancer.com/u/mvlasaufree
+
+https://www.freelancer.com/u/IanFullstack
+
+https://www.freelancer.com/u/PauloSaul
+
+https://www.freelancer.com/u/ozbas
+
+B8TvpKVQxM3
+
+KZNE2VMmfj1
+
+다음의 홀더를 지우고 다시 설치  
+C:\Users\Administrator\AppData\Roaming\skype-icr
+서버주소
+https://172.31.8.18:3030
+
+  DB::table('messaging_discussions')->where('id', 152)->update(['status' => $id]);
+
+
+https://sendgb.com/pSsOjtErDAy
+
+
+freeaccount
+truongsondev@outlook.com
+Password1@#$
+=============================================
+paypal mailto:           jyjc2018@gmail.com
+
+ibrahim2022.05@outlook.com       Resetpass123   ============skype  =======live:.cid.4fcb8fcc747d76d4
+
+jhonkms1001@outlook.com        Resetpass123
+
+
+============================================
+- Protonmail
+jinzhefeng0514@protonmail.com              //upwork3:48 PM 7/5/2022
+Resetpass123
+
+- Skp
+jinzhefeng0514@protonmail.com
+Resetpass1234
+
+=======================
+- skp 1
+ibrahim2022.05@outlook.com//upwork
+Resetpass123
+
+- skp 2
+ibrahim2022.0514@outlook.com  //upwork
+Resetpass123
+============================
+6:53 AM 6/1/2022
+new skype
+- Email: chealsondragon0514@outlook.com 
+  pass: 1234pass   pass1234
+  phone: 17640249380
+//////////////github-dlsfbdmlfltkd514
+/////////////token--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
+
+**************
+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
+**************
+
+
+///freelancer--pass1234
+//stack==git
+//ppl-dls514
+///upwork -dls514
+//guru--123qwe!@#QWE
+// figma--dls514
+- Email: chealsondragon1988@outlook.com//upwork
+  pass: 123456pass
+  phone: 17640249380
+-----------------------------------
+- Email: chealsondragon88514@outlook.com//up-client
+  pass: 
+  phone: 17640249380
+- skp:
+  pass: chealson123!@#123
+
+jomariejaner258@gmail.com
+
+jomariejaner258@gmail.com
+===========================
+#####################################
+- Email: chealsondragon1988@outlook.com// upwork
+  pass: 123456pass
+  phone: 17640249380
+- skp
+  pass: wjfeoqlalf1988
+
+omohiro, 2:17 PM
+isai.arellano@outlook.com american22
+#####################################
+- Email: chealsondragon88514@outlook.com//up
+  pass: 
+  phone: 17640249380
+- skp:
+  pass: chealson123!@#123
+
+0000000000000000000000000000000000000000000000000000000000
+++++++++++++++jsonkms+++++++++++++++++++++++
+- Email: chealsondragon0514@outlook.com    github , up
+  pass: 1234pass
+  phone: 17640249380
+- skp:hnitrade
+rachelwilliam@proton.me
+  pass: jhonek2023
+email: carolinapickup@proton.me
+pass: 1234@Secret
+aUpkMdEnLmI
+  pass: jsonkms321#@!321
+---------------------------------------------
+- Email: jeyjackson1001@outlook.com
+  pass: smk123456
+  phone: 17640249380
+- skp:
+  pass: dnfldmldnwjd2010
+=============================================
+7:19 PM 6/2/2022
+jinzhefeng0514@protonmail.com
+Resetpass123     freelancer
+==============================================
+Email: jeyjackson1001@outlook.com     github  up
+  pass: smk123456
+
+===============================
+jinzhefeng0514@protonmail.com
+Resetpass123    freelancer account
+
+ibrahim2022.0514@outlook.com//upwork
+Resetpass1234
+===============================
+forest part
+
+AnnaGalina117@outlook.com
+
+
+ryu reuification
+live:devforupwork
+
+
+sudo snap install firefox
+======================================
+11:01 AM 6/3/2022
+real american developer
+
+https://www.freelancer.com/u/CreativeinTN
+
+=================================
+vlamassa
+Netflix
+Email: crodriguez@biodactil.com
+Pass: Idolillo2
+===========================
+live:.cid.a14650c64d036a4d
+
+This is account intermediate one.
+
+
+================================
+live:d86f5944b0176c45
+
+You can discuss with this man about the account
+
+He is intermediate man whose pick up the upwork account
+
+
+-doannhatduyenanh2002@gmail.com  ======freel
+-pass: duyenanh2002
+
+Duyenanh2002@
+
+
+17640249380
+
+58% hire rate, 1 open job 
+live:.cid.9e1bad35e31fd4bd
+satlite
+live:.cid.4f4cbf848b7fc7a3
+hmc
+
+Merav Knafo
+
+http://onlyfans.com/
+
+
+
+==================================
+------------------------------------------
+- Email: chealsondragon1988.05@outlook.com
+  pass: dlsfbdmlfltkd514
+  verify: wansenzhang2016@gmail.com
+------------------------------------------
+- Email: chealsondragon1988.05.14@outlook.com
+  pass: dlsfbdmlfltkd514
+  verify: wansenzhang2016@gmail.com
+------------------------------------------
+- Email: chealsondragon1988.514@outlook.com
+  pass: dlsfbdmlfltkd514
+  verify: wansenzhang2016@gmail.com
+
+===============================
+- Email: chealsondragon2000.05@outlook.com
+  pass: dlsfbdmlfltkd514
+  verify: wansenzhang2016@gmail.com
+
+-------------------------------------
+- Email: chealsondragon2000.05.14@outlook.com
+  pass: dlsfbdmlfltkd514
+  verify: wansenzhang2016@gmail.com
+------------------------------------
+- Email: chealsondragon2000.514@outlook.com
+  pass: dlsfbdmlfltkd514
+  verify: wansenzhang2016@gmail.com
+
+===============================================
+- Email: chealman1988@outlook.com
+- pass: dlsfbdmlfltkd514
+- verify: wansenzhang2016@gmail.com
+
+
+ Email: chealman1988@outlook.com
+philipinese
+jessie dela cruz
+jdcruzcrypto00@gmail.com
+- pass: dlsfbdmlfltkd514
+https://www.freelancer.com/u/cheatovfree
+============2023 mail==========
+mail: chealson2023@proton.me
+pass: 2023pass!
+
+KEYYM4RXOF4FI
+
+***************
+email + account: roisinmark@proton.me
+pass + account: 1234pass
+profile: https://www.freelancer.com/u/roisinmark
+
+
+
+Roisin M. Profile
+https://www.freelancer.com
+******************
+======================================
+
+ ['khj' => Hash::make("py123#123")]
+
+2:18 PM 10/12/2022
+==========================================
+viktor.alekseevich0807@mail.ru
+
+user: akimob333@gmail.com
+pass: py123#123
+==============================================
+
+------Mexico account
+Marcelo Herrera Hernández in Mexico
+freelancer and upwork
+E-mail : marceloherrera.hdz@outlook.com
+Pass: 123456789$m
+User Upwork : 0c645efc
+upwork pet's name: mazda 
+
+
+---------vietnami
+Bảo
+
+Gmail:
+bao272502@gmail.com
+tranbao25
+
+Paypal:
+claudiusanta330@gmail.com
+Claudiu330
+
+freelancer: 
+bao272502@gmail.com
+tranbao25, hhhooommm123
+homVampire123
+
+live:.cid.98eb801396ebc4a5
+
+
+==========new skype=======
+- Email: jhoneguy1988@proton.me
+- pass: dnfldmldnwjd2010
+	dlsfbdmlfltkd
+
+- skype: chealson@proton.me
+- pw: 2022Mypass
+live:.cid.421aaf3e8844f402
+
+=====================
+email: roisinmark@outlook.com
+pass: 1234Pass
+
+https://www.freelancer.com/u/roisinmark2
+
+00:0C:29:69:2F:75 (ens33)
+
+===============
+email: abdulkuhanfree@outlook.com
+pass: 2023.pass
+
+===============
+email: jaimerluyfree@outlook.com 
+pass: 2023.free
+
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+cuong.tm.sw@gmail.com / Hoangmai75@
+https://www.freelancer.com/u/vnptcuong
+
+https://www.freelancer.com/contest/Laravel-Vuexy-theme-2221816
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+https://github.com/settings/tokens/
+3:42 PM 6/15/2023
+
+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
+========================================
+other freelancer
+nhiphuongchu@gmail.com
+Phuong12345@
+===========================
+
+pp-mrth2021@163.com
+mailto_po:jacksol3936@126.com
+
+
+turkey::::live:.cid.81f835d19a38891d
+forest new :live:.cid.c16584f0cee0b6c7
+saudi skype
+emad.dahdoula
+
+corrado  von planta
+corrado.von:planta
+
+Özgür Özbaş
+============================
+chealson514@outlook.com
+pass12345678
+
+
+================
+chealson00514@outlook.com
+
+pass123456789
+
+
+guru
+123qwe@QWE
+
+=====================
+jella.king.1023@gmail.com	nBm8@XJXrfS8ANN
+
+===========================
+
+wellfound.com
+
+mvlasau@gmail.com
+
+
+2023pass
+=====================
+mailto:c3f9e652dd1a@drmail.in
+
+===============================
+saudi arabia
+Username dahdoula@gmail.com  password Emd@emd2023
+
+SA3020EC0368993649619279
+8993649619279
+Name emad dahdoula
+And banck name Riyadh Banck
+And this the RIBLSARISSD swift code
+SWIFT / BIC
+RIBLSARISSD
+
+User name emad dahdoula email admin@gmail.com 
+password Emd@emd2023 jeddah address 22220 zip code 
+Alfisaliah 
+544378249 
+admin@martvila.com
+admin@martvila.com password Emd@emd2023 
+1212 1960
+
+payon password
+jtuSLdGt4ViGeLh
+
+Address line 1
+2221
+Address line 2 (optional)
+Makarona
+City/Town
+Jeddah
+Postal/ZIP code
+22220
+Country
+Saudi Arabia
+
+
+Emd@emd2024
+https://www.freelancer.com/u/Dahdoula
+
+aliexpress
+Yes I have user name beoutq586@gmail.com  password Emd@emd2023
+
+https://www.freelancer.com/u/CorradoPiero
+https://www.freelancer.com/u/ozbas
+
+
+live:.cid.f652abfbf3b18100 china-1
+live:.cid.ebed24aa793c9b6e  china-2
+==============================
+new main skype and mail info
+9:01 AM 7/7/2023
+
+- chealson.2023@outlook.com
+- pw: 2023Mypass
+17640249380
+========skype=============
+
+andreyduong@outlook.com
+Revit_Designer123
+
+========================
+haritidesai@outlook.com        Pi314159
+===================================
+ حساب بنكي في بنك الرياض
+SA3020EC0368993649619279
+
+
+8993649619279
+
+
+This is the Riyadh Banck 
+
+Name Emad Dahdoula
+
+Phone 00966544378249 
+
+Date parthday is 12/12/1960 
+
+Jeddah alfisalilah ksa 
+
+Password Emd@emd2023
+
+Username admin@martvila.com
+
+sales@hostingmydomain.com
+
++91 74289 34057
+=================================
+다음의 일감홈페지들을 vpn에서 열어놓았으니 해당 홈페지들에서 과제조사를 진행하십시오.
+https://arc.dev
+https://wellfound.com
+https://www.indeed.com
+https://www.toptal.com
+https://crowdworks.jp
+https://www.fiverr.com
+https://www.glassdoor.com
+https://www.dice.com
+https://jobot.com
+https://www.turing.com
+https://hired.com
+https://ithire.com
+================
+
+
+ithire
+
+Emd@emd2028
+
+
+3:06 PM 7/25/2023
+===========real new SKYPE=========================
+workingharddev900@outlook.com
+tigerlion333
+
+live:.cid.84b5f79082852500
+==========vietnam accouint===================
+
+Nguyen Le Bao Ngoc×
+
+freelancer ID: ngocprinny@gmail.com pas 11041991nP!
+
+
+ngocprinny@gmail.com / pass: 11041991Np!
+
+
+https://www.freelancer.com/u/Nprinny
+
+skype
+
+Ngọc- công chứng & luật sư
+live:.cid.7d5a525c6de43ec7
+09 Đường 24B KP5, An Phú, TP. Thủ Đức, TP. Hồ Chí Minh
+948 Trường Chinh, Phường 15, Tân Bình, Thành phố Hồ Chí Minh, Vietnam
+
+
+Guru:  ID: ngocnlb.moj@gmail.com pas 11041991nP!
+
+anwser
+
+Hanoi
+
+my People per hour: ID: ngocprinny@gmail.com pas 11041991nP!
+
+security answer 
+
+copU
+(+84)989670689 
+
+https://docs.google.com/spreadsheets/d/1M30XorluEz6BWBTJgqOvUib_YdcZjyLofQR_W8baUYg/edit#gid=0
+
+
+ust click on it and you can pay
+
+ngocprinny@gmail.com
+=================================================================
+my saudi account
+
+chealson.2023@outlook.com
+5Kpe@DLcsRBV*Jkv12
+
+
+=======================
+
+german laravel client
+live:.cid.f9cbd597bc436bc4
+
+=================================
+JhonKMS
+==========================
+skype1: Great Developer, live:.cid.d2e098aac2f3c82
+skype2: Wiliam Thomas, live:.cid.baa455ad82ba39e4
+
+
+=============================
+
+newzealand 
+Shawnik Raghav
+shawnik.raghav
+
+live:.cid.7d5a525c6de43ec7    ngu vietnam
+
+
+live:.cid.a6eda8e0c6ae6da3     Lib SN
+=================================
+
+annual home churn axis ahead gift secret basket sense flee load chicken
+
+
+
+0x459C19107c2D19e8464686fb3ceA70a6a635818E
+
+
+annual home churn axis ahead gift secret basket sense flee load chicken
+
+0x459C19107c2D19e8464686fb3ceA70a6a635818E
+
+
+
+Tron(TRC20)
+
+finish swallow siren rich wave empty labor kingdom task give very thank
+
+TKwnadMTH9dDCaThuSXLTKqwpzrkUeW4AP
+
+==============
+
+ih0oullyve  vietnam
+
+italy 
+rikipado
+
+
+
+live:riccardo.padovan_2
+
+vietnam
+live:dinhtrung.92.hut
+
+vietnam 
+
+live:kientrukhn_1
+====================11:40 AM 11/6/2023====================
+
+vietnam gmail and  account
+
+thuankathun@gmail.com
+
+@99979397979BCGa1490
+
+https://www.freelancer.com/u/Nktarch89
+
+
+Thuan Nguyen Khac
+
+Phù mã Village, Phù linh Ward , Soc son district
+100000  Ha noi
+
+
+INDOCHINA I&amp;C.,JSC
+
+2B P. Cát Linh, Cát Linh, Đống Đa, Hà Nội, Vietnam
+
+Phone: +84975872575
+
+skype
+live:kientrukhn_1
