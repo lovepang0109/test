@@ -1,0 +1,50 @@
+9:03 PM 10/18/2023
+=================================
+
+
+=========old===============
+
+https://kai-chatwithdoc.netlify.app/
+kai-chatwithdoc.netlify.appkai-chatwithdoc.netlify.app
+React App
+Web site created using create-react-app
+
+
+
+
+
+7:37
+@app.post('/user_first_input')
+[10:35 AM] then
+@app.post('/gen_clarified_answer')
+
+
+
+=======new================
+
+"
+
+Kayan Mishra azure account
+
+Tech@kaiventurepartners.com
+
+
+
+A1he11syeah!"
+
+
+
+----------
+https://staging-kai.azurewebsites.net/
+
+
+
+
+https://www.figma.com/proto/I67eLGSDIBbN81GKugdCxY/Perfect-Self---Web-version-(Copy)?node-id=1022-205&mode=design&t=UYRGQl5LpU2dyY4R-1
+
+Kobekayan@gmail.com
+Knockdown24
+
+=============================
+
+uvicorn main:app --reload
